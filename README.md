@@ -6,6 +6,7 @@ A simple game where the player takes their spaceship to avoid crashing into inco
 
 - stb_image
 - stb_truetype
+- glad
 
 # Assets
 
